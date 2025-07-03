@@ -1,0 +1,20 @@
+{
+  "name": "cw1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Márcio da Mota Xerém",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "git push -u origin main"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "nodejs-file-downloader": "^4.13.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
